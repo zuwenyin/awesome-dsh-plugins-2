@@ -99,6 +99,7 @@ DeepSeek 文本模型本身不能看图。下面两个插件把「看」做成�
 - [dsh-deep-research](https://github.com/omdsh-dev/dsh-deep-research) — 基于官方 workflow 引擎的自适应深研：先定义答案空间和验收标准，再按边际信息增益决定要不要继续搜，可选对抗性审查压幻觉。
 - [dsh-sentinel](https://github.com/fuhefei/dsh-sentinel) — 条件唤醒：监视文件 / 命令 / HTTP / 进程 / Webhook，条件成立就叫醒休眠会话。订阅能活过进程重启，输入框上方有值班面板。
 - [dsh-message-edit](https://github.com/Moeblack/dsh-message-edit) — 基于事件日志的消息编辑、reroll、retry 和版本时间线，改一句旧提示不必整段重来。
+- [memory-lattice](https://github.com/Lumivox-wiz/memory-lattice) — 会遗忘的记忆插件：短期记忆 48 小时自动过期，长期记忆按 SM-2 艾宾浩斯曲线复习，久不用的沉进沉睡区（可唤醒）而不是无限撑爆上下文；长期写入停在审核中心等用户逐条批准，Agent 无法自行批准。运行时零第三方依赖。
 
 ### 浏览器与电脑控制
 

@@ -97,6 +97,7 @@ The official surface is still mostly Web UI. These fill the terminal-native and 
 - [dsh-deep-research](https://github.com/omdsh-dev/dsh-deep-research) — Adaptive deep research on the official workflow engine: define the answer space and acceptance criteria first, stop when expected information gain hits zero, optionally run an adversarial review against hallucinations.
 - [dsh-sentinel](https://github.com/fuhefei/dsh-sentinel) — Condition-driven wakeup: watch files, commands, HTTP, processes, or webhooks and resume a dormant session when they fire. Subscriptions survive process restarts; a dock card shows what is on duty.
 - [dsh-message-edit](https://github.com/Moeblack/dsh-message-edit) — Event-log message editing, reroll, retry, and a version timeline — change an old prompt without replaying the whole thread.
+- [memory-lattice](https://github.com/Lumivox-wiz/memory-lattice) — A memory plugin that forgets on purpose: short-term memories expire after 48h, long-term ones are rescheduled by Ebbinghaus/SM-2 curves, and rarely-used ones fall asleep (revivable) instead of bloating your context. Long-term writes stop in an approval center — the agent cannot approve on its own. Zero runtime dependencies.
 
 ### Browser and computer use
 
